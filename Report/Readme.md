@@ -20,7 +20,7 @@
 
    Рисунок 5 - Hello, world в качестве теста
 11. Далее в диалоговом окне VirtualBox была клонирована Ubuntu-A (рисунок 6).
-   ![image](https://github.com/Klochkova24/lab-3/assets/91188482/034ad220-fc38-4f7b-8309-3c778a1dd65c)
+    ![image](https://github.com/Klochkova24/lab-3/assets/91188482/034ad220-fc38-4f7b-8309-3c778a1dd65c)
 
    Рисунок 6 - Клонирование первой ОС
 13. Таким образом получили вторую машину с именем Ubuntu-B (рисунок 7).
